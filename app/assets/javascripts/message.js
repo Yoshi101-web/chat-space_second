@@ -77,7 +77,7 @@ $(function(){
       $('.form__submit').prop('disabled', false);
     })
     .fail(function() {
-      alert("ユーザー検索に失敗しました");
+      alert("メッセージを入力してください");
     })
   })
 
